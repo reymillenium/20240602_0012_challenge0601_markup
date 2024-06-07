@@ -1,6 +1,6 @@
 # COP 1334 Assignment - Introduction to C++
 
-## Chapter 5: Challenge 1
+## Chapter 6: Challenge 1
 
 ## Title: Markup
 
